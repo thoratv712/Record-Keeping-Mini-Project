@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Record-Keeping-Mini-Project/static/css/main.d6b38360.css",
+    "main.js": "/Record-Keeping-Mini-Project/static/js/main.1969c74d.js",
+    "static/js/453.3ae42807.chunk.js": "/Record-Keeping-Mini-Project/static/js/453.3ae42807.chunk.js",
+    "index.html": "/Record-Keeping-Mini-Project/index.html",
+    "main.d6b38360.css.map": "/Record-Keeping-Mini-Project/static/css/main.d6b38360.css.map",
+    "main.1969c74d.js.map": "/Record-Keeping-Mini-Project/static/js/main.1969c74d.js.map",
+    "453.3ae42807.chunk.js.map": "/Record-Keeping-Mini-Project/static/js/453.3ae42807.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6b38360.css",
+    "static/js/main.1969c74d.js"
+  ]
+}
